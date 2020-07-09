@@ -3,7 +3,9 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "pxt-turtlelogo": "github:abegel/pxt-turtlelogo#v1.0.0"
+        "pxt-turtlelogo": "github:abegel/pxt-turtlelogo#v1.0.0",
+        "animation": "*",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.0.5"
     },
     "files": [
         "main.blocks",
